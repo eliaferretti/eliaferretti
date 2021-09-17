@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @eliaferretti
+- 🌱 I’m currently learning Chemical Engineering
