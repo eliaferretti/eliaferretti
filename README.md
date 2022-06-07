@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @eliaferretti
-- 🌱 I’m currently learning Chemical Engineering
+- 🌱 BS Chemical Engineering at Politecnico di Milano
+- 🌱 MS Chemical Engineering at Technische Universiteit Delft
+- 🙏🏻 Support my work: https://paypal.me/eliaferretti
