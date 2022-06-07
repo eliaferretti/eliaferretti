@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliaferretti
 - 🌱 BS Chemical Engineering at Politecnico di Milano
-- 🌱 MS Chemical Engineering at Technische Universiteit Delft
+- 🌱 (probabily) MS Chemical Engineering at Technische Universiteit Delft
 - 🙏🏻 Support my work: https://paypal.me/eliaferretti
 - 📩 Need help developing your code? Contact me at eliaferretti@outlook.it
