@@ -2,4 +2,5 @@
 - 🌱 BS Chemical Engineering at Politecnico di Milano
 - 🌱 (probabily) MS Chemical Engineering at Technische Universiteit Delft
 - 🙏🏻 Support my work: https://paypal.me/eliaferretti
-- 📩 Need help developing your code? Contact me at eliaferretti@outlook.it
+- 📩 Probelms in my code? Want to fit them for your purpose?
+- 📩 Contact me at eliaferretti@outlook.it
