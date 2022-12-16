@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @eliaferretti
 - 🌱 BS Chemical Engineering at Politecnico di Milano
 - 🌱 MS Chemical Engineering at Technische Universiteit Delft
+- 💼 LinkedIn: https://www.linkedin.com/in/elia-ferretti/
 - 🙏🏻 Support my work: https://paypal.me/eliaferretti
 - 📩 Contact me at eliaferretti@outlook.it
