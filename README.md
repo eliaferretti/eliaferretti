@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliaferretti
+- 👋 Hi, I’m **@eliaferretti**
 - 🌱 BS Chemical Engineering at Politecnico di Milano
 - 🌱 MS Chemical Engineering at Technische Universiteit Delft
 - 💼 LinkedIn: https://www.linkedin.com/in/elia-ferretti/
